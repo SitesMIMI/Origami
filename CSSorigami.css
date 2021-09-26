@@ -3,5 +3,8 @@ body{
 }
 
 .centre {
-  font-family: fantasy;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  color: navy;
+  margin-left: 20px;
 }
