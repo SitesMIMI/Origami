@@ -3,8 +3,8 @@ body{
 }
 
 .centre {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: "Curcive";
   text-align: center;
-    color: darkgray;
   margin-left: 20px;
+  font-size: 40
 }
