@@ -8,3 +8,7 @@ body{
   margin-left: 20px;
   font-size: 40
 }
+
+.image {
+  border: 2px
+}
